@@ -3,7 +3,7 @@ version: 2
 sources:
     - name: raw
       database: DB
-      schema: DEMO_SCHAMA
+      schema: RAW_SCHAMA
       tables:
          - name: ORDERS
          - name: CUSTOMER
